@@ -4,6 +4,7 @@ For Game Logic:
 
 
 For Graphics:
+  *Decide on overall game Style
   *Cute Drawn Tokens 
   *Draw Gameboard Pieces 
   *Figure out how to use QtDesigner to build gameBoard from Pieces
